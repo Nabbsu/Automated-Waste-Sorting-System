@@ -2,8 +2,9 @@
 
 
 
-## AI-Powered Waste Management Solution
+## Project Title
 
+AI-Powered Waste Management Solution
 
 
 ## Summary
