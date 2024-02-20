@@ -2,7 +2,7 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# AI-Powered Waste Management Solution
+## AI-Powered Waste Management Solution
 
 
 
