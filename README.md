@@ -37,11 +37,3 @@ The project does not solve the entire waste management lifecycle, including coll
 ## What next?
 
 The project could grow by integrating more advanced AI techniques to handle complex materials and dynamic environments. Collaboration with waste management companies and environmental organizations would be beneficial for real-world implementation. Skills in computer vision, robotics, and sustainable engineering would be essential for further development.
-
-
-## Acknowledgments
-
-nspired by existing waste sorting technologies and advancements in AI.
-![Sorting robot][https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrG3qapo-82MS5-ZfECNxF79kmSeQK8dK1VtXm3djPcZc9VjwqgO2gsQC4-tL5x7V5hg&usqp=CAU)
- / CC BY 4.0
-* etc
