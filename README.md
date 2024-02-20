@@ -4,7 +4,7 @@
 
 ## Project Title
 
-AI-Powered Waste Management Solution
+Building AI course project - an idea for an AI project (AI-Powered Waste Management Solution)
 
 
 ## Summary
