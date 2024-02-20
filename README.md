@@ -26,4 +26,4 @@ The project could expand to incorporate more advanced AI techniques for sorting 
 Acknowledgments
 I'd like to thank Reaktor Innovations and the University of Helsinki for providing the Building AI course.
 Inspiration drawn from existing waste sorting technologies and advancements in AI.
-Image source: Sleeping Cat on Her Back by Umberto Salvagnin / CC BY 2.0
+![image of an online cat](https://tinyurl.com/elementsofaicat)
