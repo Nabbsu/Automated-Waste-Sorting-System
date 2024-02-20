@@ -1,7 +1,12 @@
 # Automated-Waste-Sorting-System
 
 
-##Summary 
+
+
+
+
+
+"## Summary" 
 The project aims to develop an AI-based system for automating waste sorting processes, enhancing recycling efficiency, and reducing contamination. It utilizes computer vision and machine learning to identify and sort different types of waste, promoting sustainability and environmental conservation.
 
 ## Background
