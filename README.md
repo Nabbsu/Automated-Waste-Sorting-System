@@ -41,6 +41,6 @@ The project could grow by integrating more advanced AI techniques to handle comp
 ## Acknowledgments
 
 nspired by existing waste sorting technologies and advancements in AI.
-![Sorting robot]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrG3qapo-82MS5-ZfECNxF79kmSeQK8dK1VtXm3djPcZc9VjwqgO2gsQC4-tL5x7V5hg&usqp=CAU))
+![Sorting robot][https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrG3qapo-82MS5-ZfECNxF79kmSeQK8dK1VtXm3djPcZc9VjwqgO2gsQC4-tL5x7V5hg&usqp=CAU)
  / CC BY 4.0
 * etc
