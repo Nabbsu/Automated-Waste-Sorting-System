@@ -2,7 +2,7 @@
 
 
 
-## Project Title
+# Project Title
 
 Building AI course project - an idea for an AI project (AI-Powered Waste Management Solution)
 
