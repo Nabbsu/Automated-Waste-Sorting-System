@@ -26,4 +26,4 @@ The project could expand to incorporate more advanced AI techniques for sorting 
 Acknowledgments
 I'd like to thank Reaktor Innovations and the University of Helsinki for providing the Building AI course.
 Inspiration drawn from existing waste sorting technologies and advancements in AI.
-![The Great Lakes are awash in plastic. Can robots]([https://tinyurl.com/elementsofaicat](https://www.greenbiz.com/sites/default/files/styles/16_9_cropped/public/2022-08/Meijer%20BeBot_1470.jpg?itok=Ftc9rql5)https://www.greenbiz.com/sites/default/files/styles/16_9_cropped/public/2022-08/Meijer%20BeBot_1470.jpg?itok=Ftc9rql5)
+![The Great Lakes are awash in plastic. Can robots](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGrG3qapo-82MS5-ZfECNxF79kmSeQK8dK1VtXm3djPcZc9VjwqgO2gsQC4-tL5x7V5hg&usqp=CAU)
